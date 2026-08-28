@@ -10,7 +10,8 @@ Repositório criado para registrar minha evolução durante o curso de Java Bás
 - [x] Aula 03 - Instalando o JDK no seu computador
 - [x] Aula 04 - Primeiro programa em Java
 - [x] Aula 05 - Introdução ao Swing e JavaFX
-- [ ] Próximas aulas...
+- [x] Aula 06 - Tipo Primitivos e Manipulação de Dados
+- [x] Aula 07...
 
 📚 Curso: Java Básico - Curso em Vídeo
 💻 Linguagem: Java
