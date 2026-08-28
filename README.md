@@ -11,8 +11,9 @@ Repositório criado para registrar minha evolução durante o curso de Java Bás
 - [x] Aula 04 - Primeiro programa em Java
 - [x] Aula 05 - Introdução ao Swing e JavaFX
 - [x] Aula 06 - Tipo Primitivos e Manipulação de Dados
-- [x] Aula 07...
-
+- [x] Aula 07 - Operadores Aritméticos e Classe Math
+- [ ] Próximas aulas...
+ 
 📚 Curso: Java Básico - Curso em Vídeo
 💻 Linguagem: Java
 🚀 Objetivo: praticar e registrar minha evolução na programação.
