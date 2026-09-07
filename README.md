@@ -13,7 +13,8 @@ Repositório criado para registrar minha evolução durante o curso de Java Bás
 - [x] Aula 06 - Tipo Primitivos e Manipulação de Dados
 - [x] Aula 07 - Operadores Aritméticos e Classe Math
 - [x] Aula 08 - Operadores Lógicos e Relacionais
-- [x] Aula 9 – Estruturas Condicionais (Parte 1)
+- [x] Aula 09 – Estruturas Condicionais (Parte 1)
+- [x] Aula 10 – Estruturas Condicionais (Parte 2)
 - [ ] Próximas aulas...
  
 📚 Curso: Java Básico - Curso em Vídeo
