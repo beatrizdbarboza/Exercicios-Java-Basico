@@ -18,6 +18,7 @@ Repositório criado para registrar minha evolução durante o curso de Java Bás
 - [x] Aula 11 – Estruturas de Repetição (Parte 1)
 - [x] Aula 12 - Estruturas de Repetição (Parte 2)
 - [x] Aula 13 - Estruturas de Repetição (Parte 3)
+- [x] Aula 14 – Vetores
 - [ ] Próximas aulas...
  
 📚 Curso: Java Básico - Curso em Vídeo
